@@ -5,3 +5,4 @@ repo for Grace Hopper Celebration 2019 workshop Breaking the Black Box: Interpre
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/data-avengers-girls/Breaking-The-Black-Box-Interpreting-ML-Models/blob/master/mnist_interpretation_vis.ipynb)
 
 ## Visualizing the interpretation of VGG16 model
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/data-avengers-girls/Breaking-The-Black-Box-Interpreting-ML-Models/blob/master/vgg16_interpretation.ipynb)
